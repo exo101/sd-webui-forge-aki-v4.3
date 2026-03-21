@@ -16,9 +16,22 @@
 - 推荐的显卡NVIDIA系列：3080,3090,4060ti,4070，4070TI,4080,4090
 - 5060TI,5070,5070TI,5080,5090
 
+## 版本环境：
+- python3.11.9  
+- CUDA130+torch2.91
+- triton-windows=3.5.1.post24
+- sageattention=2.2.0
+- flash_attn=2.8.3
+- nunchaku=1.21
+- transformers==4.57.3
+- diffusers-0.37.0.dev0
+ 
+  
+## 支持模型：
+- qwen3-tts: 10GB/内存32g
 - Qwen-Image: 12GB /内存64g
 - Qwen3vL: 10GB
-- Z-Image-Turbo:12g//内存32g
+- Z-Image-Turbo:12g/内存32g
 - Segment Anything: 10GB
 - Cleaner: 8GB
 - LatentSync: 12GB
