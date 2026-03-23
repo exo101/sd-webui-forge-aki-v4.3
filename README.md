@@ -3,11 +3,6 @@
 旧整合包已不适用日益更新的AI应用与50系显卡，为此我更新了新整合包环境，补充落后的webui Forge生态
 对于ComfyUI复杂的节点连线式操作界面，对新手确实不太好学习。WebUI Forge更加易操作，直观好理解，适合入门
 
-## 整合包内部多模态插件支持 
-|`nunchaku`| `qwen-image-edit2509`|`qwen-image`|`qwen-image-ControlNet`|`qwen lora` |
-|`qwen3` |`qwen3VL`|`qwen2.5VL`| `Ollama`|`llama3.2-vision`|
-|`LatentSync` |`Segment Anything`|`Cleaner`|`Index-TTS2` |
-|`FLUX.1-Kontext` | `FLUX` |`FLUX ControlNet` | `XL` | `XL ControlNet` |`sd15 ControlNet`|`sd15`|
 
 ## 系统要求
 
